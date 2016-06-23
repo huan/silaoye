@@ -1,0 +1,8 @@
+<columnlist>
+<column name="本地文件夹" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="230" remotewidth="180" />
+<column name="备注" align="center" show="TRUE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36" />
+<column name="大小" align="right" show="TRUE" share="FALSE" builtin="TRUE" localwidth="40" remotewidth="-2" />
+<column name="类型" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60" />
+<column name="修改" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102" />
+<column name="取出者" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1" />
+</columnlist>
